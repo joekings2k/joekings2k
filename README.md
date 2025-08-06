@@ -73,10 +73,10 @@
   </a>
 </p>
 <div style={display:'flex',width:'100%'}>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joekings2k&show_icons=true&locale=en&layout=compact" alt="viczdera" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joekings2k&show_icons=true&locale=en&layout=compact" alt="joekings2k" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joekings2k&" alt="viczdera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joekings2k&" alt="joekings2k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joekings2k&show_icons=true&locale=en" alt="joekings2k" /></p>
 
