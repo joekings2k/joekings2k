@@ -9,10 +9,10 @@
 
 <h3 align="left">🚀 Public Works:</h3>
 
-<table> <tr> <td> <strong>🌐 <a href="https://tooncentralhub.com">Toon Central</a></strong><br /> <em>Creative OS</em><br /> <code>Next.js</code> <code>TypeScript</code>  <code>Tailwind CSS</code> <code>Shadcn</code> <code>React Query</code>  </td> </tr> <tr> <td> <strong>🌐 <a href="https://data-scrapre-flow.vercel.app/">Datascrape flow</a></strong><br /> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Shadcn</code> </td> </tr> <tr> <td> <strong>🌐 <a href="https://primeries-vendor.vercel.app/home">Primeries</a></strong><br /> <code>Next.js</code> <code>TypeScript</code> <code>Framer Motion</code> </td> </tr> <tr> <td> <strong>🌐 <a href="https://upbeatcentre.com/">Upbeats</a></strong><br /> <em>Activity and Events booking, user front and dashboard.</em><br /> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Shadcn</code> <code>Paystack API</code> <code>Recharts</code> </td> </tr> </table>
+<table> <tr> <td> <strong>🌐 <a href="https://tooncentralhub.com">Toon Central</a></strong><br /> <em>Creative OS</em><br /> <code>Next.js</code> <code>TypeScript</code>  <code>Tailwind CSS</code> <code>Shadcn</code> <code>React Query</code>  </td> </tr> <tr> <td> <strong>🌐 <a href="https://data-scrapre-flow.vercel.app/">Datascrape flow</a></strong><br /> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Shadcn</code> </td> </tr> <tr> <td> <strong>🌐 <a href="https://ajeromi-ifelodun.lg.gov.ng/">Ajeromi</a></strong><br /> <code>Next.js</code> <code>TypeScript</code> <code>Framer Motion</code> </td> </tr> <tr> <td> <strong>🌐 <a href="https://eromosele-jonathan-ogbeide-lendsqr-fe-test.vercel.app/">Lenders Dashboard</a></strong><br /> <em>Dashboard for lenders challenge</em><br /> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>  <code>Recharts</code> </td> </tr> </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/victor-izuchukwu-a524b816a/" target="blank">
+  <a href="https://www.linkedin.com/in/eromosele-ogbeide-a96718251" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victor Izuchukwu LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -73,11 +73,11 @@
   </a>
 </p>
 <div style={display:'flex',width:'100%'}>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=viczdera&show_icons=true&locale=en&layout=compact" alt="viczdera" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joekings2k&show_icons=true&locale=en&layout=compact" alt="viczdera" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viczdera&" alt="viczdera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joekings2k&" alt="viczdera" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viczdera&show_icons=true&locale=en" alt="viczdera" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joekings2k&show_icons=true&locale=en" alt="joekings2k" /></p>
 
 
